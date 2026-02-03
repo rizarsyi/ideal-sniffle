@@ -1,1 +1,2 @@
-# ideal-sniffle
+### agama-sms
+ OTP authentication with SMS
